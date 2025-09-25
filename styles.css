@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+.l, .c, .d, .f, .e, .s, .p {
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+
+.l { background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/6f/011_The_lion_king_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg");   
+  
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.c {  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg");                                          
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.d {background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5PHjdZ4WsSRIm56h-o_Vw5QaFPHtvyo04hoQFtmdUoEamrgfszd8JfHnq39vTTE3qIKf8j9C9MTUAKfpT4TdoqDls-6BnSwzT2s9AiHg");
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.f {background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/30/Vulpes_vulpes_ssp_fulvus.jpg");
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-position:;
+}
+
+.e {background-image: url("https://cdn.mos.cms.futurecdn.net/TVR7E3Kuzg2iRhKkjZPeWk.jpg");
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.s {background-image: url("https://www.saferbrand.com/media/Articles/Safer-Brand/identify-and-get-rid-of-venmous-snakes.jpg");
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.p {background-image: url("https://www.stodels.com/wp-content/uploads/2016/07/parrots-2-1.jpg");
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+
+.animal {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
